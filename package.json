@@ -1,0 +1,14 @@
+{
+  "name": "midi-dmx",
+  "version": "1.0.0",
+  "description": "A bridge between midi and dmx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diegodorado@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "midi": "^0.9.5"
+  }
+}
